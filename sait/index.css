@@ -1,0 +1,32 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.intro{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("123.jpg");
+    background-position: center;
+}
+.header{
+    
+}
+.mogo{
+    margin-left: 360px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+.about{
+    
+    margin-left: 51%;
+    padding-top: 0;
+    font-size: 16px;
+    font-family: 'Montserrat-Regular', sans-serif;
+}
+ul.about li{
+    display: inline;
+    border: 0px solid; 
+    padding: 10px;
+}
